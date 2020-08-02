@@ -20,19 +20,23 @@ module.exports = {
           },
          {
             title: `Projects`,
-            slug: `/about`,
+            slug: `/projects`,
           },
           {
             title: `Publications`,
             slug: `/publications`,
           },
           {
-            title: `Teaching`,
-            slug: `/about`,
+            title: `Talks`,
+            slug: `/talks`,
           },
           {
             title: `Visual`,
             slug: `/about`,
+          },
+            {
+            title: `Teaching`,
+            slug: `/teaching`,
           },
         ],
         externalLinks: [
