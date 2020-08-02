@@ -18,8 +18,20 @@ module.exports = {
             title: `Blog`,
             slug: `/blog`,
           },
+         {
+            title: `Projects`,
+            slug: `/about`,
+          },
           {
-            title: `About`,
+            title: `Publications`,
+            slug: `/publications`,
+          },
+          {
+            title: `Teaching`,
+            slug: `/about`,
+          },
+          {
+            title: `Visual`,
             slug: `/about`,
           },
         ],
