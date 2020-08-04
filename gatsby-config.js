@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
     siteMetadata: {
-    siteTitle: `Tim Schutz`,
+    siteTitle: `Tim Schütz`,
     siteTitleAlt: `Tim Schütz | University of California Irvine`,
   },
   plugins: [
@@ -31,23 +31,15 @@ module.exports = {
             title: `Talks`,
             slug: `/talks`,
           },
-          {
-            title: `Visual`,
-            slug: `/about`,
-          },
-            {
-            title: `Teaching`,
-            slug: `/teaching`,
-          },
         ],
         externalLinks: [
           {
-            name: `Social 1`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `About`,
+            slug: `/about`,
           },
           {
-            name: `Social 2`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `CV`,
+            url: `/cv`,
           },
         ],
       },
