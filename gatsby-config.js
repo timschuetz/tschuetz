@@ -16,6 +16,10 @@ module.exports = {
       options: {
         navigation: [
           {
+            title: `About`,
+            slug: `/about`,
+          },
+              {
             title: `Blog`,
             slug: `/blog`,
           },
@@ -34,12 +38,12 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `About`,
-            url: `https://tmschtz.netlify.app/about`,
+            name: `CV`,
+            url: `https://worldpece.org/content/tim-sch%C3%BCtz/essay`,
           },
           {
-            name: `CV`,
-            url: ``,
+            name: `PECE`,
+            url: `https://worldpece.org/content/tim-sch%C3%BCtz/essay`,
           },
         ],
       },
