@@ -5,15 +5,9 @@ require(`dotenv`).config({
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
-      siteMetadata: {
-      siteTitle: `Tim Schütz`,
-      siteTitleAlt: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
-      siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-      siteUrl: `https://www.timschuetz.org`,
-      siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-      siteLanguage: `en`,
-      siteImage: `/banner.jpg`,
-      author: `@lekoarts_de`,
+    siteMetadata: {
+    siteTitle: `Tim Schutz`,
+    siteTitleAlt: `Tim Schütz | University of California Irvine`,
   },
   plugins: [
     {
