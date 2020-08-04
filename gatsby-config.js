@@ -35,11 +35,11 @@ module.exports = {
         externalLinks: [
           {
             name: `About`,
-            slug: `/about`,
+            url: ``,
           },
           {
             name: `CV`,
-            url: `/cv`,
+            url: ``,
           },
         ],
       },
