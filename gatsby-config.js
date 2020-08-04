@@ -35,7 +35,7 @@ module.exports = {
         externalLinks: [
           {
             name: `About`,
-            url: ``,
+            url: `https://tmschtz.netlify.app/about`,
           },
           {
             name: `CV`,
