@@ -41,11 +41,11 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
+            name: `Social 1`,
             url: `https://twitter.com/lekoarts_de`,
           },
           {
-            name: `Instagram`,
+            name: `Social 2`,
             url: `https://www.instagram.com/lekoarts.de/`,
           },
         ],
