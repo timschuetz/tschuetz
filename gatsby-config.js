@@ -16,7 +16,7 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `About`,
+            title: `About 2`,
             slug: `/about`,
           },
               {
@@ -39,11 +39,11 @@ module.exports = {
         externalLinks: [
           {
             name: `CV`,
-            url: `https://worldpece.org/content/tim-sch%C3%BCtz/essay`,
+            url: ``,
           },
           {
             name: `PECE`,
-            url: `https://worldpece.org/content/tim-sch%C3%BCtz/essay`,
+            url: ``,
           },
         ],
       },
