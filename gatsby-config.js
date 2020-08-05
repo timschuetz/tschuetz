@@ -16,7 +16,7 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `About 2`,
+            title: `About`,
             slug: `/about`,
           },
               {
@@ -43,7 +43,7 @@ module.exports = {
           },
           {
             name: `PECE`,
-            url: ``,
+            url: `https://worldpece.org/content/tim-schütz/essay`,
           },
         ],
       },
