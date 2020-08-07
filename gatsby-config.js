@@ -39,7 +39,7 @@ module.exports = {
         externalLinks: [
           {
             name: `CV`,
-            url: ``,
+            url: `https://github.com/timschuetz/gatsby-starter-lumen-1/blob/master/static/cv-ts-july2020.pdf`,
           },
           {
             name: `PECE`,
